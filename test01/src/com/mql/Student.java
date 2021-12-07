@@ -7,4 +7,7 @@ package com.mql;
  * @version V1.0
  */
 public class Student {
+    private int age;
+    private String name;
+    private double score;
 }
